@@ -1,5 +1,5 @@
-# Data_Analysis_Case_Study_Cyclist
-This is my first project/Casestudy on Data analysis. This is a case sudy that i got from Google Data analysis certification from coursera.
+# Data_Analysis_Cyclist
+This is my first project on Data analysis that was provided by Google from Google Data analysis certification from coursera.
 ___________________________________
 ## Introduction
 
